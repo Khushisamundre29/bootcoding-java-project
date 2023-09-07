@@ -1,0 +1,2 @@
+module bootcoding.java.project {
+}
